@@ -13,7 +13,7 @@ This is the official repository for the research project titled
 The raw data utilized in this study has been collected under ethical supervision and is protected under the data management policy of **Guangdong University of Technology (GDUT)**.  
 To request access for academic or research purposes, please contact:
 
-**Email**: [wanqiandesign@gdut.edu.cn](mailto:wanqiandesign@gdut.edu.cn)
+**Email**: [liuxiyu1214@gmail.com](mailto:liuxiyu1214@gmail.com)
 
 ![Experiment 2](pic/experiment2.png)
 
